@@ -11,5 +11,9 @@ This repository contains the official implementation of the following paper:
 > 
 >[[Papar]](https://ryuzhihao123.github.io/data/VR21_tree.pdf) [[IEEE ver.]](https://ieeexplore.ieee.org/document/9417799)
 
+![system](https://github.com/RyuZhihao123/VR_TreeModeling/blob/main/Figures/fig_ui.png)
+
+![result](https://github.com/RyuZhihao123/VR_TreeModeling/blob/main/Figures/fig_example.png)
+
 
 
