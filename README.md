@@ -21,6 +21,9 @@ Here is the overview of our mid-air modeling system:
 
 
 ### Requirement:
+Since this is a VR system, you need to first purchase the necessary VR hardwares before configuring our project.
+
+
 **Hardware:**
 
 $\bullet$ Leap Motion (for mid-air sketching).
